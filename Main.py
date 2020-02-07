@@ -6,4 +6,5 @@ import random
 
 ########## RUN CODE ##########
 
+UIHandler.askForMethod()
 mode = UIHandler.askForMode()

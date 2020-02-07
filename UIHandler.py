@@ -1,4 +1,5 @@
 ########## DECODE FUNCTIONS ##########
+##### Beale
 def askForCode():
     return input("Please input code.")
 
@@ -24,8 +25,12 @@ def userDecodeStyle():
 
 
 ########## CODE FUNCTIONS ##########
+##### Beale
 
 ########## GENERAL FUNCTIONS ##########
+def askForMethod():
+    print("Only Beale incription is currently available. Press enter to continue.")
+    input()
 
 def askForMode():
     print('''Would you like to Code or to decode?
