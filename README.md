@@ -10,6 +10,6 @@ Currently this project uses only Python 3.0, and I would preferably like to keep
 - Add a non console UI. This is currently a console tool, but if you want to add a better UI, go ahead. 
 - **Add an easy way to install this software on your computer.**
 ### Installing
-Currently you have to download the project ad run it in your IDE.
+Currently you have to download the project and run it in your IDE.
 ## When
 This project is still very new and can’t preform even basic functions. It has no release date as of yet. Want to see this project become a reality? ***Help code it!***
